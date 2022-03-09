@@ -2,17 +2,31 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_profile"
-            android:icon="@drawable/user"
-            android:checked="true"
-            android:title="Profile" />
-        <item
             android:id="@+id/nav_home"
             android:icon="@drawable/home"
-            android:title="Home" />
+            android:title="Home"
+            android:visible="true" />
+        <item
+            android:id="@+id/nav_profile"
+            android:checked="true"
+            android:icon="@drawable/settings"
+            android:title="Setting"
+            android:visible="true" />
+
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/personlogin"
+            android:title="LogIn"
+            android:visible="true" />
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/login"
+            android:title="About Us"
+            android:visible="true" />
         <item
             android:id="@+id/nav_logout"
             android:icon="@drawable/login"
-            android:title="LogOut" />
+            android:title="Log Out"
+            android:visible="true" />
     </group>
 </menu>

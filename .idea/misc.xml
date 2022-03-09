@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/call_button.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_bell.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_homebg.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_menu.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_message_circle.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_phone.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_prevention1.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_prevention2.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_prevention3.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/ic_testbanner.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/india.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/send_sms_button.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/spinner_bg.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/drawable/stat_button.xml" value="0.167" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/layout/activity_main.xml" value="0.15677083333333333" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/layout/fragment_grapes.xml" value="0.1578125" />
+        <entry key="..\:/practise_project/custom_navigation_drawer/app/src/main/res/layout/fragment_profile.xml" value="0.1578125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17239583333333333" />
+        <entry key="app/src/main/res/layout/activity_notificationimg.xml" value="0.17239583333333333" />
+        <entry key="app/src/main/res/layout/fragment_customer_profile.xml" value="0.17239583333333333" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
